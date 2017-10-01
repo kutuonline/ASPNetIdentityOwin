@@ -19,4 +19,4 @@ install-package Microsoft-Aspnet.Identity.Owin
 
 then build the project
 
-now you can register the user using the application
+now you can register user using the application
